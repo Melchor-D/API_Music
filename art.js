@@ -32,5 +32,3 @@ async function buscar() {
       "<p>Error al cargar datos.</p>";
   }
 }
-
-document.getElementById("search").addEventListener("input", buscar);
